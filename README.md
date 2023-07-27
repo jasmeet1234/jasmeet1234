@@ -44,7 +44,7 @@
 <tr border="none">
 <td width="50%" align="center" >
   
-<h2>Concistency is the key 🔑</h2>
+<h2>Consistency is the key 🔑</h2>
   
   <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet1234&theme=dark&hide_border=false" /> 
 </td>
