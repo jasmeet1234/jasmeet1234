@@ -22,15 +22,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Redux, MySQL, Enhancing my DSA**
+- 🔭 I’m currently working on **AWS, Cloud Architecture and DSA**
 
-- 🎨 I've keen interest in designing. So,I'm learning **UI/UX**
+- 🎨 I've keen interest in System Design. So,I'm learning **Cloud Architecture**
 
 - 🐶 I am involved with an animal NGO. Join our cause on [Furever Youth](https://instagram.com/furever_youth?igshid=NjIwNzIyMDk2Mg==)
 
-- 💬 Ask me about **React, DSA, Frontend Development, C++**
+- 💬 Ask me about **React, DSA, Frontend Development, Python**
 
-- 📫 Feel free to reach me out **havneetghotra123@gmail.com**
+- 📫 Feel free to reach me out **jasmeetsingh.work7015@gmail.com**
 
 - 🏠 Recently I made a web based game [Flip](https://jasmeetflip.netlify.app/)
 <!--Intro end-->
