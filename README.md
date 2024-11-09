@@ -82,7 +82,7 @@ Thanks for visiting my GitHub! Feel free to explore my repositories and drop a s
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,sass,py,codepen,autocad,atom,arduino,git,github,bootstrap,c,cpp,css,discord,express,figma,html,java,js,mysql,nodejs,react,redux,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,c,cpp,docker,dynamodb,git,github,js,linux,mysql,py,react,ubuntu,vscode,windows&perline=14" />
   </a>
 </p>
 
@@ -99,7 +99,7 @@ Thanks for visiting my GitHub! Feel free to explore my repositories and drop a s
 <p align="center">
 <a href="https://www.linkedin.com/in/jasmeet8699/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="mailto:jasmeetsingh.work7015@gmail.com" target="_blank">
- <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
+ <img align="center" src="https://skillicons.dev/icons?i=gmail&perline=14" />
 </a>
 </p>
 
