@@ -14,14 +14,12 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-<h2 style="font-style: italic; font-size: 1.5em; font-weight: bold; color: #333;">True achievement lies not in winning at someone else's game, but in creating your own game and inspiring others to compete.</h2>
 
+<br>
 
-  </ul>
-</div>
-<!--Intro start-->
+### _"True achievement lies not in winning at someone else's game, but in creating your own game and inspiring others to compete🏆"_
+
+<br>
 
 ## 💻 About Me
 - ☁️ **Cloud Specialist**: AWS Certified with a degree in **Cloud Computing Specialization**. Proficient in building scalable, secure architectures using services like S3, Lambda, CloudFront, and API Gateway.
@@ -41,17 +39,8 @@ I am a volunteer at [Furever Youth](https://instagram.com/furever_youth?igshid=N
   - [Dev.to](https://dev.to/jasmeet7015)
 - 💼 **LinkedIn**: Connect with me for collaboration and career opportunities: [LinkedIn](https://linkedin.com/in/jasmeet8699)
 
-## 🚀 Let's Build Together!
-I’m always open to collaboration on projects involving cloud computing, automation, and web development. Let’s create something impactful!
-
-Thanks for visiting my GitHub! Feel free to explore my repositories and drop a star if you find something you like! ⭐
-
-
-
+## 🔍 My Stats:
 <!--Intro end-->
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
