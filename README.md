@@ -20,10 +20,7 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
-Welcome to my GitHub! I'm a passionate **AWS Certified Solutions Architect** with expertise in **Cloud Services**, **Python Supremacy**, and deep knowledge in **C++**. 🚀 My love for technology spans across cloud architecture, coding, and optimizing systems for performance.
-
 ## 💻 About Me
 - ☁️ **Cloud Specialist**: AWS Certified with a degree in **Cloud Computing Specialization**. Proficient in building scalable, secure architectures using services like S3, Lambda, CloudFront, and API Gateway.
 - 🐧 **Linux/Ubuntu Fanatic**: I live in the terminal! Whether it's setting up servers or automating tasks with shell scripts, I thrive in a Linux environment.
@@ -101,12 +98,10 @@ Thanks for visiting my GitHub! Feel free to explore my repositories and drop a s
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/jasmeet8699/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/jas__chill/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>  
+<a href="mailto:jasmeetsingh.work7015@gmail.com" target="_blank">
+ <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
+</a>
 </p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-
-Last Edited on: 27/7/2023
