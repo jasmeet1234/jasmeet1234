@@ -22,7 +22,6 @@
 
   </ul>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--Intro start-->
 ## 💻 About Me
 - ☁️ **Cloud Specialist**: AWS Certified with a degree in **Cloud Computing Specialization**. Proficient in building scalable, secure architectures using services like S3, Lambda, CloudFront, and API Gateway.
