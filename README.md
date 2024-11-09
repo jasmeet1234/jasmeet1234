@@ -44,12 +44,14 @@ I’m always open to collaboration on projects involving cloud computing, automa
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and drop a star if you find something you like! ⭐
 
+
+
 <!--Intro end-->
 
 
 
 <!--- stats & Trophy (start) -->
-<p margin-top="1rem" align="center">
+<p style="margin-top=1rem" align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
