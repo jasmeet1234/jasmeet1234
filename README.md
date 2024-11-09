@@ -16,7 +16,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-<p style="font-style: italic; font-size: 1.5em; font-weight: bold; color: #333;">True achievement lies not in winning at someone else's game, but in creating your own game and inspiring others to compete.</p>
+<h2 style="font-style: italic; font-size: 1.5em; font-weight: bold; color: #333;">True achievement lies not in winning at someone else's game, but in creating your own game and inspiring others to compete.</h2>
 
 
   </ul>
