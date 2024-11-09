@@ -16,23 +16,37 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Programming is all about creativity</h2></summary>
+    <summary><h2 style="display: inline-block">True achievement lies not in winning at someone else's game, but in creating your own game and inspiring others to compete</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, Cloud Architecture and DSA**
+Welcome to my GitHub! I'm a passionate **AWS Certified Solutions Architect** with expertise in **Cloud Services**, **Python Supremacy**, and deep knowledge in **C++**. 🚀 My love for technology spans across cloud architecture, coding, and optimizing systems for performance.
 
-- 🎨 I've keen interest in System Design. So,I'm learning **Cloud Architecture**
+## 💻 About Me
+- ☁️ **Cloud Specialist**: AWS Certified with a degree in **Cloud Computing Specialization**. Proficient in building scalable, secure architectures using services like S3, Lambda, CloudFront, and API Gateway.
+- 🐧 **Linux/Ubuntu Fanatic**: I live in the terminal! Whether it's setting up servers or automating tasks with shell scripts, I thrive in a Linux environment.
+- 📚 **IEEE Publisher**: Co-authored research on cloud-based communication technologies for urban flood prediction, published in IEEE Xplore.
+- 🌐 **Web Developer**: Skilled in **React.js** for building dynamic and responsive frontend applications and experienced in **WordPress** for creating optimized, high-conversion websites.
+- 🐍 **Python Supremacy**: Proficient in automating cloud workflows, developing REST APIs, and tackling complex problems with Python.
+- 💾 **C++ Mastery**: Gained a solid understanding of **Data Structures and Algorithms (DSA)** using C++ to explore lower-level language concepts and enhance backend efficiency.
 
-- 🐶 I am involved with an animal NGO. Join our cause on [Furever Youth](https://instagram.com/furever_youth?igshid=NjIwNzIyMDk2Mg==)
+## 🐶 Join My Cause
+I am a volunteer at [Furever Youth](https://instagram.com/furever_youth?igshid=NjIwNzIyMDk2Mg==), an animal rescue NGO. If you love animals and want to make a difference, consider joining our cause to help stray and injured animals find loving homes. 🐾❤️
 
-- 💬 Ask me about **React, DSA, Frontend Development, Python**
+## 🌐 Where to Find Me
+- 📫 Email: [jasmeetsingh.work7015@gmail.com](mailto:jasmeetsingh.work7015@gmail.com)
+- 📝 **Technical Blogs**: Dive into my articles on cloud computing, DevOps, and programming:
+  - [Medium](https://medium.com/@jasmeetsingh.work7015)
+  - [Dev.to](https://dev.to/jasmeet7015)
+- 💼 **LinkedIn**: Connect with me for professional insights and opportunities: [LinkedIn](https://linkedin.com/in/jasmeet8699)
 
-- 📫 Feel free to reach me out **jasmeetsingh.work7015@gmail.com**
+## 🚀 Let's Build Together!
+I’m always open to collaboration on projects involving cloud computing, automation, and web development. Let’s create something impactful!
 
-- 🏠 Recently I made a web based game [Flip](https://jasmeetflip.netlify.app/)
+Thanks for visiting my GitHub! Feel free to explore my repositories and drop a star if you find something you like! ⭐
+
 <!--Intro end-->
 
 
