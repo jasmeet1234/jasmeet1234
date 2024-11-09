@@ -49,7 +49,7 @@ Thanks for visiting my GitHub! Feel free to explore my repositories and drop a s
 
 
 <!--- stats & Trophy (start) -->
-<p align="center">
+<p margin-top="1rem" align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
