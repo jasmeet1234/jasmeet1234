@@ -16,9 +16,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-<blockquote>
-  <h2 style="display: inline-block; font-style: italic;">"True achievement lies not in winning at someone else's game, but in creating your own game and inspiring others to compete."</h2>
-</blockquote>
+
 
   </ul>
 </div>
