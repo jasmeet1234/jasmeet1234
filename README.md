@@ -37,7 +37,7 @@ I am a volunteer at [Furever Youth](https://instagram.com/furever_youth?igshid=N
 - 📝 **Technical Blogs**: Dive into my articles on cloud computing, DevOps, and programming:
   - [Medium](https://medium.com/@jasmeetsingh.work7015)
   - [Dev.to](https://dev.to/jasmeet7015)
-- 💼 **LinkedIn**: Connect with me for professional insights and opportunities: [LinkedIn](https://linkedin.com/in/jasmeet8699)
+- 💼 **LinkedIn**: Connect with me for collaboration and career opportunities: [LinkedIn](https://linkedin.com/in/jasmeet8699)
 
 ## 🚀 Let's Build Together!
 I’m always open to collaboration on projects involving cloud computing, automation, and web development. Let’s create something impactful!
@@ -49,9 +49,9 @@ Thanks for visiting my GitHub! Feel free to explore my repositories and drop a s
 <!--Intro end-->
 
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--- stats & Trophy (start) -->
-<p style="margin-top=10rem" align="center">
+<p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
